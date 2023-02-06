@@ -5,7 +5,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               -42.375
                         ]
                   },
@@ -19,7 +19,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               -36.75
                         ]
                   },
@@ -33,13 +33,13 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              60.0,
-                              12
+                              -30.0,
+                              2
                         ]
                   },
                   "marker": {
                         "radius": 4,
-                        "fillColor": "#9a60b4"
+                        "fillColor": "#ee6666"
                   }
             },
             {
@@ -47,22 +47,8 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              120.0,
+                              -63.33333333333333,
                               42
-                        ]
-                  },
-                  "marker": {
-                        "radius": 4,
-                        "fillColor": "#5470c6"
-                  }
-            },
-            {
-                  "name": " Huiyao",
-                  "geometry": {
-                        "type": "Point",
-                        "coordinates": [
-                              -90.0,
-                              22
                         ]
                   },
                   "marker": {
@@ -71,17 +57,31 @@
                   }
             },
             {
-                  "name": " Lawrence",
+                  "name": " Huiyao",
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              60.0,
+                              -96.66666666666666,
                               22
                         ]
                   },
                   "marker": {
                         "radius": 4,
-                        "fillColor": "#9a60b4"
+                        "fillColor": "#91cc75"
+                  }
+            },
+            {
+                  "name": " Lawrence",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -30.0,
+                              12
+                        ]
+                  },
+                  "marker": {
+                        "radius": 4,
+                        "fillColor": "#ee6666"
                   }
             },
             {
@@ -89,7 +89,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               -31.125
                         ]
                   },
@@ -103,13 +103,13 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              60.0,
-                              32
+                              -30.0,
+                              22
                         ]
                   },
                   "marker": {
                         "radius": 4,
-                        "fillColor": "#9a60b4"
+                        "fillColor": "#ee6666"
                   }
             },
             {
@@ -117,7 +117,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -30.0,
+                              3.333333333333343,
                               12
                         ]
                   },
@@ -131,7 +131,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               -25.5
                         ]
                   },
@@ -145,7 +145,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               -19.875
                         ]
                   },
@@ -159,7 +159,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               -14.25
                         ]
                   },
@@ -173,13 +173,13 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              90.0,
+                              70.0,
                               42
                         ]
                   },
                   "marker": {
                         "radius": 4,
-                        "fillColor": "#ea7ccc"
+                        "fillColor": "#fc8452"
                   }
             },
             {
@@ -187,7 +187,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               -8.625
                         ]
                   },
@@ -201,13 +201,13 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -90.0,
+                              -96.66666666666666,
                               32
                         ]
                   },
                   "marker": {
                         "radius": 4,
-                        "fillColor": "#fac858"
+                        "fillColor": "#91cc75"
                   }
             },
             {
@@ -215,7 +215,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               -3.0
                         ]
                   },
@@ -229,7 +229,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               2.625
                         ]
                   },
@@ -243,13 +243,13 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              60.0,
-                              42
+                              -30.0,
+                              32
                         ]
                   },
                   "marker": {
                         "radius": 4,
-                        "fillColor": "#9a60b4"
+                        "fillColor": "#ee6666"
                   }
             },
             {
@@ -257,7 +257,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -30.0,
+                              3.333333333333343,
                               22
                         ]
                   },
@@ -271,7 +271,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               8.25
                         ]
                   },
@@ -285,7 +285,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               13.875
                         ]
                   },
@@ -299,7 +299,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               19.5
                         ]
                   },
@@ -313,13 +313,13 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              30.0,
+                              36.666666666666686,
                               42
                         ]
                   },
                   "marker": {
                         "radius": 4,
-                        "fillColor": "#fc8452"
+                        "fillColor": "#3ba272"
                   }
             },
             {
@@ -327,7 +327,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -30.0,
+                              3.333333333333343,
                               32
                         ]
                   },
@@ -341,7 +341,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               25.125
                         ]
                   },
@@ -355,13 +355,13 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              0.0,
+                              136.66666666666669,
                               42
                         ]
                   },
                   "marker": {
                         "radius": 4,
-                        "fillColor": "#3ba272"
+                        "fillColor": "#ea7ccc"
                   }
             },
             {
@@ -369,7 +369,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -30.0,
+                              3.333333333333343,
                               42
                         ]
                   },
@@ -383,7 +383,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               30.75
                         ]
                   },
@@ -397,13 +397,13 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -60.0,
+                              103.33333333333334,
                               42
                         ]
                   },
                   "marker": {
                         "radius": 4,
-                        "fillColor": "#ee6666"
+                        "fillColor": "#9a60b4"
                   }
             },
             {
@@ -411,21 +411,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -90.0,
-                              42
-                        ]
-                  },
-                  "marker": {
-                        "radius": 4,
-                        "fillColor": "#fac858"
-                  }
-            },
-            {
-                  "name": " Kelly J",
-                  "geometry": {
-                        "type": "Point",
-                        "coordinates": [
-                              -120.0,
+                              -96.66666666666666,
                               42
                         ]
                   },
@@ -435,11 +421,25 @@
                   }
             },
             {
+                  "name": " Kelly J",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -30.0,
+                              42
+                        ]
+                  },
+                  "marker": {
+                        "radius": 4,
+                        "fillColor": "#ee6666"
+                  }
+            },
+            {
                   "name": " Sanika S",
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               36.375
                         ]
                   },
@@ -453,7 +453,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               42.0
                         ]
                   },

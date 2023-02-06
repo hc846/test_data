@@ -5,7 +5,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -130.0,
                               55
                         ]
                   },
@@ -18,20 +18,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -75.0,
-                              55
-                        ]
-                  },
-                  "marker": {
-                        "radius": 8
-                  }
-            },
-            {
-                  "name": "Youngest",
-                  "geometry": {
-                        "type": "Point",
-                        "coordinates": [
-                              0.0,
+                              -55.0,
                               55
                         ]
                   },
@@ -44,7 +31,20 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              75.0,
+                              20.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "Youngest",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              95.0,
                               55
                         ]
                   },

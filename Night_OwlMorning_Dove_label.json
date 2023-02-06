@@ -1,11 +1,24 @@
 {
       "data": [
             {
+                  "name": "Morning",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -130.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
                   "name": "Night",
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -150.0,
+                              -55.0,
                               55
                         ]
                   },
@@ -18,20 +31,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -75.0,
-                              55
-                        ]
-                  },
-                  "marker": {
-                        "radius": 8
-                  }
-            },
-            {
-                  "name": "Morning",
-                  "geometry": {
-                        "type": "Point",
-                        "coordinates": [
-                              0.0,
+                              20.0,
                               55
                         ]
                   },
@@ -44,7 +44,7 @@
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              75.0,
+                              95.0,
                               55
                         ]
                   },

@@ -1,0 +1,82 @@
+{
+      "data": [
+            {
+                  "name": "Coffee",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -150.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "Tea",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -100.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "?",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -50.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "Water",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              0.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "Lemon Water",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              50.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "Soy Bean",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              100.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            }
+      ]
+}

@@ -1,0 +1,173 @@
+{
+      "data": [
+            {
+                  "name": "October",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -150.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "April",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -126.92307692307692,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "March",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -103.84615384615384,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "February",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -80.76923076923077,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "December",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -57.69230769230769,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "?",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -34.61538461538461,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "September",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -11.538461538461547,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "June",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              11.538461538461547,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "January",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              34.61538461538461,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "July",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              57.69230769230768,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "November",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              80.76923076923077,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "May",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              103.84615384615384,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "August",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              126.9230769230769,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            }
+      ]
+}

@@ -1,0 +1,134 @@
+{
+      "data": [
+            {
+                  "name": "none",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -150.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "Dog",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -120.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "cats",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -90.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "fish",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -60.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "dogs",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -30.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "?",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              0.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "dogs, bunnies",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              30.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "dog",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              60.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "bunnies",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              90.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "cat",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              120.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            }
+      ]
+}

@@ -1,1 +1,121 @@
-{name:"EP group", geometry:{type:"Point", coordinates:[-150.0, 55]}, marker:{radius:8}}, {name:"IE", geometry:{type:"Point", coordinates:[-116.66666666666666, 55]}, marker:{radius:8}}, {name:"Dry Etch", geometry:{type:"Point", coordinates:[-83.33333333333333, 55]}, marker:{radius:8}}, {name:"Wet Etch", geometry:{type:"Point", coordinates:[-50.0, 55]}, marker:{radius:8}}, {name:"J team", geometry:{type:"Point", coordinates:[-16.666666666666657, 55]}, marker:{radius:8}}, {name:"Litho", geometry:{type:"Point", coordinates:[16.666666666666686, 55]}, marker:{radius:8}}, {name:"Supplier Solution", geometry:{type:"Point", coordinates:[50.0, 55]}, marker:{radius:8}}, {name:"Labor Productivity", geometry:{type:"Point", coordinates:[83.33333333333334, 55]}, marker:{radius:8}}, {name:"Data Solution", geometry:{type:"Point", coordinates:[116.66666666666669, 55]}, marker:{radius:8}}
+{
+      "data": [
+            {
+                  "name": "EP group",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -150.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "IE",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -116.66666666666666,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "Dry Etch",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -83.33333333333333,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "Wet Etch",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -50.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "J team",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -16.666666666666657,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "Litho",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              16.666666666666686,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "Supplier",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              50.0,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "Labor Prod",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              83.33333333333334,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            },
+            {
+                  "name": "Data Solution",
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              116.66666666666669,
+                              55
+                        ]
+                  },
+                  "marker": {
+                        "radius": 8
+                  }
+            }
+      ]
+}

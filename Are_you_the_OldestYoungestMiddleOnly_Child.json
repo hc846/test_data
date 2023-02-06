@@ -6,7 +6,7 @@
                         "type": "Point",
                         "coordinates": [
                               -130.0,
-                              -39.81818181818181
+                              -58.0
                         ]
                   },
                   "marker": {
@@ -20,7 +20,7 @@
                         "type": "Point",
                         "coordinates": [
                               -130.0,
-                              -31.63636363636364
+                              -48.0
                         ]
                   },
                   "marker": {
@@ -34,7 +34,7 @@
                         "type": "Point",
                         "coordinates": [
                               -55.0,
-                              -39.0
+                              -48
                         ]
                   },
                   "marker": {
@@ -48,7 +48,7 @@
                         "type": "Point",
                         "coordinates": [
                               -55.0,
-                              -30.0
+                              -38
                         ]
                   },
                   "marker": {
@@ -62,7 +62,7 @@
                         "type": "Point",
                         "coordinates": [
                               -130.0,
-                              -23.454545454545453
+                              -38.0
                         ]
                   },
                   "marker": {
@@ -76,7 +76,7 @@
                         "type": "Point",
                         "coordinates": [
                               -55.0,
-                              -21.0
+                              -28
                         ]
                   },
                   "marker": {
@@ -90,7 +90,7 @@
                         "type": "Point",
                         "coordinates": [
                               20.0,
-                              -39.81818181818181
+                              -58.0
                         ]
                   },
                   "marker": {
@@ -104,7 +104,7 @@
                         "type": "Point",
                         "coordinates": [
                               -55.0,
-                              -12.0
+                              -18
                         ]
                   },
                   "marker": {
@@ -118,7 +118,7 @@
                         "type": "Point",
                         "coordinates": [
                               20.0,
-                              -31.63636363636364
+                              -48.0
                         ]
                   },
                   "marker": {
@@ -132,7 +132,7 @@
                         "type": "Point",
                         "coordinates": [
                               20.0,
-                              -23.454545454545453
+                              -38.0
                         ]
                   },
                   "marker": {
@@ -146,7 +146,7 @@
                         "type": "Point",
                         "coordinates": [
                               -130.0,
-                              -15.272727272727273
+                              -28.0
                         ]
                   },
                   "marker": {
@@ -160,7 +160,7 @@
                         "type": "Point",
                         "coordinates": [
                               20.0,
-                              -15.272727272727273
+                              -28.0
                         ]
                   },
                   "marker": {
@@ -174,7 +174,7 @@
                         "type": "Point",
                         "coordinates": [
                               -130.0,
-                              -7.0909090909090935
+                              -18.0
                         ]
                   },
                   "marker": {
@@ -188,7 +188,7 @@
                         "type": "Point",
                         "coordinates": [
                               20.0,
-                              -7.0909090909090935
+                              -18.0
                         ]
                   },
                   "marker": {
@@ -202,7 +202,7 @@
                         "type": "Point",
                         "coordinates": [
                               -55.0,
-                              -3.0
+                              -8
                         ]
                   },
                   "marker": {
@@ -216,7 +216,7 @@
                         "type": "Point",
                         "coordinates": [
                               20.0,
-                              1.0909090909090935
+                              -8.0
                         ]
                   },
                   "marker": {
@@ -230,7 +230,7 @@
                         "type": "Point",
                         "coordinates": [
                               -130.0,
-                              1.0909090909090935
+                              -8.0
                         ]
                   },
                   "marker": {
@@ -244,7 +244,7 @@
                         "type": "Point",
                         "coordinates": [
                               20.0,
-                              9.272727272727273
+                              2.0
                         ]
                   },
                   "marker": {
@@ -258,7 +258,7 @@
                         "type": "Point",
                         "coordinates": [
                               -55.0,
-                              6.0
+                              2
                         ]
                   },
                   "marker": {
@@ -272,7 +272,7 @@
                         "type": "Point",
                         "coordinates": [
                               -130.0,
-                              9.272727272727273
+                              2.0
                         ]
                   },
                   "marker": {
@@ -286,7 +286,7 @@
                         "type": "Point",
                         "coordinates": [
                               20.0,
-                              17.454545454545453
+                              12.0
                         ]
                   },
                   "marker": {
@@ -300,7 +300,7 @@
                         "type": "Point",
                         "coordinates": [
                               20.0,
-                              25.636363636363637
+                              22.0
                         ]
                   },
                   "marker": {
@@ -314,7 +314,7 @@
                         "type": "Point",
                         "coordinates": [
                               -55.0,
-                              15.0
+                              12
                         ]
                   },
                   "marker": {
@@ -328,7 +328,7 @@
                         "type": "Point",
                         "coordinates": [
                               -130.0,
-                              17.454545454545453
+                              12.0
                         ]
                   },
                   "marker": {
@@ -342,7 +342,7 @@
                         "type": "Point",
                         "coordinates": [
                               20.0,
-                              33.81818181818182
+                              32.0
                         ]
                   },
                   "marker": {
@@ -370,7 +370,7 @@
                         "type": "Point",
                         "coordinates": [
                               -130.0,
-                              25.636363636363637
+                              22.0
                         ]
                   },
                   "marker": {
@@ -384,7 +384,7 @@
                         "type": "Point",
                         "coordinates": [
                               -55.0,
-                              24.0
+                              22
                         ]
                   },
                   "marker": {
@@ -398,7 +398,7 @@
                         "type": "Point",
                         "coordinates": [
                               -55.0,
-                              33.0
+                              32
                         ]
                   },
                   "marker": {
@@ -412,7 +412,7 @@
                         "type": "Point",
                         "coordinates": [
                               -130.0,
-                              33.81818181818182
+                              32.0
                         ]
                   },
                   "marker": {
@@ -454,7 +454,7 @@
                         "type": "Point",
                         "coordinates": [
                               -55.0,
-                              42.0
+                              42
                         ]
                   },
                   "marker": {

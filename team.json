@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"data":
 [{"name":"EP group", "geometry":{"type":"Point", "coordinates":[-150.0, 55]}, "marker":{"radius":8}},
  {"name":"IE", "geometry":{"type":"Point", "coordinates":[-116.66666666666666, 55]}, "marker":{"radius":8}}
@@ -6,3 +7,10 @@
 }
 
 
+=======
+{"data":[
+	{"name":"EP group", "geometry":{"type":"Point", "coordinates":[-150.0, 55]}, "marker":{"radius":8}},
+ 	{"name":"IE", "geometry":{"type":"Point", "coordinates":[-116.66666666666666, 55]}, "marker":{"radius":8}}
+	]
+}
+>>>>>>> 894cd16ef32442be80c76027da42de79b3daa628

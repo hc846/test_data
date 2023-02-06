@@ -1,6 +1,29 @@
-{"data":
-[{"name":"EP group", "geometry":{"type":"Point", "coordinates":[-150.0, 55]}, "marker":{"radius":8}},
- {"name":"IE", "geometry":{"type":"Point", "coordinates":[-116.66666666666666, 55]}, "marker":{"radius":8}}
-]
+// {"data":
+// [{"name":"EP group", "geometry":{"type":"Point", "coordinates":[-150.0, 55]}, "marker":{"radius":8}},
+//  {"name":"IE", "geometry":{"type":"Point", "coordinates":[-116.66666666666666, 55]}, "marker":{"radius":8}}
+// ]
 
+// }
+
+{
+    "glossary": {
+        "title": "example glossary",
+		"GlossDiv": {
+            "title": "S",
+			"GlossList": {
+                "GlossEntry": {
+                    "ID": "SGML",
+					"SortAs": "SGML",
+					"GlossTerm": "Standard Generalized Markup Language",
+					"Acronym": "SGML",
+					"Abbrev": "ISO 8879:1986",
+					"GlossDef": {
+                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
+						"GlossSeeAlso": ["GML", "XML"]
+                    },
+					"GlossSee": "markup"
+                }
+            }
+        }
+    }
 }
